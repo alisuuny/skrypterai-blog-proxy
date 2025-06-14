@@ -7,5 +7,5 @@ Cloudflare Worker routes.
 ## Setup
 
 1. Deploy this repo to Vercel.
-2. Navigate to `https://<your-vercel-app>/api/blog/` to test.
+2. Navigate to `https://skrypterai-blog-proxy.vercel.app/api/blog` to test.
 3. Plug your Vercel URL into the Cloudflare Worker to route requests.
